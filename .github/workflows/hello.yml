@@ -7,3 +7,6 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Hello, BalaVenkatSai!!!"
+      - name: List files
+        run: ls -l
+
